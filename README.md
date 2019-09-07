@@ -1,2 +1,2 @@
-# poo
-AULAS LABORATORIAIS
+# Programação Orientada por Objetos.
+Tarefas e Exercicios.
