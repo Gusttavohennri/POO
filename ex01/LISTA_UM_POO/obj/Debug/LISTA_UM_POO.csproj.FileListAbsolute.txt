@@ -1,0 +1,7 @@
+C:\Users\Andréa\source\repos\LISTA_UM_POO\LISTA_UM_POO\bin\Debug\LISTA_UM_POO.exe.config
+C:\Users\Andréa\source\repos\LISTA_UM_POO\LISTA_UM_POO\bin\Debug\LISTA_UM_POO.exe
+C:\Users\Andréa\source\repos\LISTA_UM_POO\LISTA_UM_POO\bin\Debug\LISTA_UM_POO.pdb
+C:\Users\Andréa\source\repos\LISTA_UM_POO\LISTA_UM_POO\obj\Debug\LISTA_UM_POO.csprojAssemblyReference.cache
+C:\Users\Andréa\source\repos\LISTA_UM_POO\LISTA_UM_POO\obj\Debug\LISTA_UM_POO.csproj.CoreCompileInputs.cache
+C:\Users\Andréa\source\repos\LISTA_UM_POO\LISTA_UM_POO\obj\Debug\LISTA_UM_POO.exe
+C:\Users\Andréa\source\repos\LISTA_UM_POO\LISTA_UM_POO\obj\Debug\LISTA_UM_POO.pdb
